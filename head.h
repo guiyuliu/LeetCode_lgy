@@ -18,6 +18,8 @@ public:
 
     int lengthOfLongestSubstring(string s);
     int lengthOfLongestSubstring_unorderedmap(string s);
+    int LongestPalindormeSubstring_bf(string s);
+    bool shinkcheckPalindromesubstring(string s);
 };
 
 
