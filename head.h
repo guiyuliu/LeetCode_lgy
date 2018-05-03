@@ -5,6 +5,15 @@
 #include <iostream>
 #include <map>
 #include <string>
+#include <cstring>
+#include "string.h"
+#include "sequenceStack.h"
+#include "linkedlist.h"
+#include "parray.h"
+#include "Seqlist.h"
+#include "BinaryTree.h"
+//#include "stdlib.h"
+//#include <stdio>
 
 #ifndef ARRAY_HEAD_H
 #define ARRAY_HEAD_H
@@ -21,6 +30,10 @@ public:
     int LongestPalindormeSubstring_bf(string s);
     bool shinkcheckPalindromesubstring(string s);
 };
+
+
+
+
 
 
 
